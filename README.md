@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @gmsicu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 [@gmsicu](https://github.com/gmsicu) is ready to deprecate.
 
-<!---
-gmsicu/gmsicu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Please no longer contact me from this account.
+
+The E-mail linked to this account was already deleted from DNS server. But I can still login before cookies expire.
+
+Thank you again.
